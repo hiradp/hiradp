@@ -6,6 +6,6 @@ My name is Hirad and I am:
 - 🎓 an SJSU Computer Science Alumni
 - ⚽️ an Arsenal and a 🏀 Warriors fan
 - ⌨️ a keyboard enthusiast
-- a 😸 and 🐶 parent
+- 😸 and 🐶 parent
 
 Shoot me an email at [hello@hirad.codes](mailto:hello@hirad.codes)!
