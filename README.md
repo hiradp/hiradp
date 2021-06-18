@@ -7,5 +7,3 @@ My name is Hirad and I am:
 - ⚽️ an Arsenal and a 🏀 Warriors fan
 - ⌨️ a keyboard enthusiast
 - 😸 and 🐶 parent
-
-Shoot me an email at [hello@hirad.codes](mailto:hello@hirad.codes)!
