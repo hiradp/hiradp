@@ -2,7 +2,7 @@
 
 My name is Hirad and I am:
 
-- 🧑🏻‍🔧 a Production Engineer at [Marshall Wace](https://www.mwam.com/).
+- 🧑🏻‍🔧 a Software Engineer at [Pinecone](https://www.pinecone.io/).
 - 🎓 an SJSU Computer Science Alumni.
 - ⚽️ an Arsenal and a 🏀 Warriors fan.
 - ⌨️ a keyboard enthusiast.
