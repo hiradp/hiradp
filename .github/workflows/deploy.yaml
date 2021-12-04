@@ -1,0 +1,17 @@
+name: Deploy
+
+on:
+  push:
+    branches:
+      - 'main'
+
+jobs:
+  deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger webhook
+        env:
+          VERCEL_WEBHOOK: ${{ secrets.VERCEL_WEBHOOK }}
+        run: |
+          curl -X POST $VERCEL_WEBHOOK
