@@ -14,4 +14,4 @@ jobs:
         env:
           VERCEL_WEBHOOK: ${{ secrets.VERCEL_WEBHOOK }}
         run: |
-          curl -X POST $VERCEL_WEBHOOK
+          curl -X POST $VERCEL_WEBHOOK?buildCache=false
