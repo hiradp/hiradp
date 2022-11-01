@@ -6,4 +6,4 @@ My name is Hirad and I am:
 - 🎓 an SJSU Computer Science Alumni.
 - ⚽️ an Arsenal and a 🏀 Warriors fan.
 - ⌨️ a keyboard enthusiast.
-- 😸 and 🐶 parent.
+- 😸 and 🐶 parent
